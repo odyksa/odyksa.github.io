@@ -28,3 +28,6 @@
 - [Watch Planet](https://odyksa.github.io/watch_lanet)  
 /Type: web-page / Stack: CSS, HTML/
 
+- [Web Career](https://odyksa.github.io/webcareer)  
+/Type: web-page / Stack: CSS, HTML/
+
