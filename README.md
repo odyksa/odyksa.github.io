@@ -22,3 +22,6 @@
 - [Goodinc](https://odyksa.github.io/goodinc)  
 /Type: landing page / Stack: CSS, HTML/
 
+- [LoremIpsum](https://odyksa.github.io/lorem_ipsum)  
+/Type: web-page / Stack: CSS, HTML/
+
