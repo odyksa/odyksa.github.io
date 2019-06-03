@@ -1,8 +1,6 @@
-
-
 # Alex Dyksa
 ## My projects:
 
-[Treehouse](https://odyksa.github.io/treehouse)
+- [Текст ссылки](адрес://ссылки.здесь)
 - fgfggfg
 - ghghg
