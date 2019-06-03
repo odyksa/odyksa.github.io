@@ -1,0 +1,234 @@
+/*   Подключаем веб шрифт PT Sans   */
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&subset=cyrillic');
+
+/*   Устанавливаем цвет фона и цвет текста при его выделении   */
+*::-moz-selection {
+	background-color: #E05A10;
+	color: #fff;
+}
+
+*::selection {
+	background-color: #E05A10;
+	color: #fff;
+}
+
+body {
+	font-family: 'PT Sans', Tahoma, sans-serif;
+	font-size: 1em;
+	color: #333;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#wrapper {
+	width: 950px;
+	margin: 0 auto;
+}
+
+#header {
+	background: url("../images/header.jpg") no-repeat #14235A;
+	height: 300px;
+	padding-top: 100px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#header h1 {
+	width: 200px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	background-color: rgba(255, 255, 255, 0.5);
+	border-left: 2px solid #E05A10; 
+	border-right: 2px solid #E05A10;
+	color: #E05A10;
+	font-style: italic;
+	font-size: 1.7em;
+}
+
+#navigation {
+	margin: 0 0 40px 0;
+	border-top: 2px solid #E05A10;
+	border-bottom: 2px solid #E05A10;
+	height: 100%;
+}
+
+#navigation:after {
+	content: " ";
+	display: block;
+	clear: both;
+}
+
+#navigation ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	width: 572px;
+	margin: 0 auto;
+}
+
+#navigation ul li a {
+	text-decoration: none;
+	padding: 20px;
+	display: block;
+	float: left;
+	color: #273B3C;
+}
+
+#navigation ul li a:hover {
+	color: #fff;
+	background: #E05A10;
+}
+
+#content {
+	margin: 0 0 40px 0;
+}
+
+#content:after {
+	content: " ";
+	display: block;
+	clear: both;
+}
+
+#content #about {
+	margin: 0 0 40px 0;
+}
+
+#content h2 {
+	margin-bottom: 10px;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 1.2em;
+	border-left: 2px solid #E05A10;
+	border-right: 2px solid #E05A10;
+	color: #273B3C;
+	width: 100px;
+	text-align: center;
+}
+
+#content #feedback .item {
+	width: 33.33%;
+	float: left;
+	padding: 10px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#content #feedback .item .photo {
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 200px;
+}
+
+#content #feedback .item h3 {
+	margin: 5px 0 0 0;
+}
+
+#content #feedback .item .comment {
+	margin: 10px 0 0 0;
+}
+
+/*   Стили для кнопки "подробнее"   */
+.details {
+	display: inline-block;
+	padding: 5px;
+	margin: 10px 0;
+	color: #E05A10;
+	border: 1px solid #E05A10;
+	text-align: center;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	font-size: 0.8em;
+	text-decoration: none;
+}
+
+.details:hover {
+	color: #fff;
+	background: #E05A10;
+}
+
+.details .fontawesome-icon {
+	font-size: 10px;
+	margin-left: 3px;
+}
+
+#footer {
+	padding: 30px 40px 20px 40px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	color: #333;
+	border-top: 2px solid #E05A10;
+}
+
+#footer:after {
+	content: " ";
+	display: block;
+	clear: both;
+}
+
+#footer .column {
+	width: 33.33%;
+	float: left;
+	height: 280px;
+	overflow: hidden;
+	padding: 10px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#footer .column h3 {
+	margin: 0 0 10px 0;
+	border-bottom: 2px solid #fff;
+	color: #273B3C;
+}
+
+#footer .column ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#footer .column ul li {
+	margin: 0 0 5px 0;
+}
+
+#footer .column ul li a {
+	text-decoration: none;
+	color: #333;
+}
+
+#footer .column ul li a:hover {
+	border-bottom: 1px solid #E05A10;
+}
+
+#footer .column form input[type="text"], #footer .column form textarea {
+	display: block;
+	width: 100%;
+	margin: 5px 0;
+	color: #E05A10;
+	font-family: inherit;
+	font-size: inherit;
+}
+
+#footer input[type="submit"] {
+	background: #fff;
+	color: #E05A10;
+	margin: 5px 0 0 0;
+	cursor: pointer;
+}
+
+#footer input[type="submit"]:hover {
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+
