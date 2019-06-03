@@ -1,6 +1,9 @@
 # Alex Dyksa
 ## My projects:
 
+- [Current Weather](https://odyksa.github.io/current_weather)  
+/Type: SPA / Stack: Redux, React, JS, CSS, HTML/  
+
 - [TODO List](https://odyksa.github.io/todo_list)  
 /Type: SPA / Stack: React, React-Flip-Move, JS, CSS, HTML/  
 
