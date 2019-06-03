@@ -19,3 +19,6 @@
 - [Golden](https://odyksa.github.io/golden)  
 /Type: landing page / Stack: CSS, HTML/
 
+- [Goodinc](https://odyksa.github.io/goodinc)  
+/Type: landing page / Stack: CSS, HTML/
+
