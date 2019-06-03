@@ -16,3 +16,6 @@
 - [ActiveBox](https://odyksa.github.io/activebox)  
 /Type: landing page / Stack: CSS, HTML/
 
+- [Golden](https://odyksa.github.io/golden)  
+/Type: landing page / Stack: CSS, HTML/
+
