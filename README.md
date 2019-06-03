@@ -1,6 +1,9 @@
 # Alex Dyksa
 ## My projects:
 
+- [TODO List](https://odyksa.github.io/todo_list)  
+/Type: SPA / Stack: React, React-Flip-Move, JS, CSS, HTML/  
+
 - [Mikron](https://odyksa.github.io/mikron)  
 /Type: landing page / Stack: JS, JQuery, SASS, HTML/  
 
