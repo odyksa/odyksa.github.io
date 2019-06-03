@@ -25,7 +25,7 @@
 - [LoremIpsum](https://odyksa.github.io/lorem_ipsum)  
 /Type: web-page / Stack: CSS, HTML/
 
-- [Watch Planet](https://odyksa.github.io/watch_lanet)  
+- [Watch Planet](https://odyksa.github.io/watch_planet)  
 /Type: web-page / Stack: CSS, HTML/
 
 - [Web Career](https://odyksa.github.io/webcareer)  
