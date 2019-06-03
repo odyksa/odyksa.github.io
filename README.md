@@ -10,3 +10,6 @@
 - [Luxury Restaurant](https://odyksa.github.io/luxury_restaurant)  
 /Type: landing page / Stack: JS, JQuery, Bootstrap, SASS, HTML/
 
+- [ActiveBox](https://odyksa.github.io/activebox)  
+/Type: landing page / Stack: CSS, HTML/
+
