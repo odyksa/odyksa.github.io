@@ -1,0 +1,178 @@
+@import url(reset.css);
+
+body {
+	background: url(../images/main-bg.png);
+	font-family: Arial, sans-serif;
+}
+
+a {
+	font-size: 18px;
+	text-decoration: none;
+}
+
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+#header:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+#logo {
+	float: left;
+	margin-left: -2px;
+}
+
+#logo a {
+	display: block;
+	width: 204px;
+	height: 135px;
+	background: url(../images/logo.png) no-repeat;
+}
+
+#menu {
+	background: url(../images/menu-bg.png) no-repeat;
+	height: 70px;
+}
+
+#menu ul {
+	list-style: none;
+}
+
+#menu li {
+	display: inline-block;
+	margin: 23px 30px 0 40px;
+}
+
+#menu li.last-child {
+	color: #ffffff;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	margin: 23px 0 0 135px;
+}
+
+#menu li span {
+	color: #ff1600;
+}
+
+#menu li a {
+	font-weight: bold;
+	color: #ffffff;
+}
+
+#menu li a#current, #menu li a:hover {
+	border-bottom: 2px solid #ffffff;
+}
+
+#content {
+	color: #353535;
+	text-align: center;
+	width: 580px;
+	margin: 0 auto;
+}
+
+#content h1 {
+	font-weight: bold;
+	font-size: 55px;
+	margin-top: 13px;
+}
+
+#content h2 {
+	font-size: 24px;
+	font-weight: normal;
+	margin-top: 10px;
+}
+
+#content p {
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+.divider {
+	width: 546px;
+	height: 20px;
+	margin: 23px auto 30px auto;
+	background: url(../images/divider.png) no-repeat;
+}
+
+#content .red-headline {
+	font-weight: bold;
+	font-size: 30px;
+	color: #a03131;
+	margin: 37px 0 20px 0;
+}
+
+#content .social-list {
+	list-style: none;
+	padding-left: 0;
+	text-align: left;
+	width: 315px;
+	margin: 0 auto;
+}
+
+#content .social-list li {
+	height: 40px;
+	margin-bottom: 7px;
+}
+
+#content .social-list li:last-child {
+	margin-bottom: 27px;
+}
+
+#content .social-list a {
+	color: #383838;
+	font-size: 18px;
+	font-weight: bold;
+	padding-left: 65px;
+	line-height: 40px;
+}
+
+#content .social-list a:hover {
+	text-decoration: underline;
+}
+
+.facebook-icon-bg {
+	background: url(../images/fb.png) no-repeat left center;
+}
+
+.twitter-icon-bg {
+	background: url(../images/twitter.png) no-repeat left center;
+}
+
+.rss-icon-bg {
+	background: url(../images/rss.png) no-repeat left center;
+}
+
+.dribble-icon-bg {
+	background: url(../images/dribble.png) no-repeat left center;
+}
+
+.linkedin-icon-bg {
+	background: url(../images/linkedin.png) no-repeat left center;
+}
+
+#footer {
+	text-align: center;
+}
+
+#footer p {
+	color: #a03131;
+	font-size: 14px;
+	margin-bottom: 35px;
+}
+
+#footer p a {
+	color: #383838;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+#footer p a:hover {
+	text-decoration: underline;
+}
