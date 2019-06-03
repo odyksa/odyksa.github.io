@@ -25,3 +25,6 @@
 - [LoremIpsum](https://odyksa.github.io/lorem_ipsum)  
 /Type: web-page / Stack: CSS, HTML/
 
+- [Watch Planet](https://odyksa.github.io/watch_lanet)  
+/Type: web-page / Stack: CSS, HTML/
+
