@@ -1,7 +1,7 @@
 # Alex Dyksa
 ## My projects:
 
-- [Weather Forecast for 3 days](https://odyksa.github.io/weather_forecast)  
+- [Weather Forecast for 3 days](https://odyksa.github.io/weather-forecast)  
 /Type: SPA / Stack: Redux, React, React Router, JS, CSS, HTML/ 
 
 - [Current Weather](https://odyksa.github.io/current_weather)  
