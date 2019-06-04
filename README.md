@@ -1,4 +1,4 @@
-<p style="color:red">ddd</>
+<p style="color:red">ddd</p>
 
 # Alex Dyksa
 ## My projects:
