@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cookbook/static/css/main.1dc6acbb.chunk.css",
-    "main.js": "/cookbook/static/js/main.39eefa5e.chunk.js",
-    "main.js.map": "/cookbook/static/js/main.39eefa5e.chunk.js.map",
+    "main.js": "/cookbook/static/js/main.3b719dac.chunk.js",
+    "main.js.map": "/cookbook/static/js/main.3b719dac.chunk.js.map",
     "runtime~main.js": "/cookbook/static/js/runtime~main.148d404c.js",
     "runtime~main.js.map": "/cookbook/static/js/runtime~main.148d404c.js.map",
     "static/js/2.3a589d80.chunk.js": "/cookbook/static/js/2.3a589d80.chunk.js",
     "static/js/2.3a589d80.chunk.js.map": "/cookbook/static/js/2.3a589d80.chunk.js.map",
     "index.html": "/cookbook/index.html",
-    "precache-manifest.a99767f176d1d587a17b179c3e4ad097.js": "/cookbook/precache-manifest.a99767f176d1d587a17b179c3e4ad097.js",
+    "precache-manifest.85fd46485e809a76022488770e323810.js": "/cookbook/precache-manifest.85fd46485e809a76022488770e323810.js",
     "service-worker.js": "/cookbook/service-worker.js",
     "static/css/main.1dc6acbb.chunk.css.map": "/cookbook/static/css/main.1dc6acbb.chunk.css.map"
   }
