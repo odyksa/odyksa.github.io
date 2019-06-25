@@ -1,6 +1,9 @@
 # Alex Dyksa
 ## My projects:
 
+- [CookBook Recipes](https://odyksa.github.io/cookbook)  
+/Type: SPA / Stack: React, React Router, JS, CSS, HTML/ 
+
 - [Weather Forecast for 3 days](https://odyksa.github.io/weather-forecast)  
 /Type: SPA / Stack: Redux, React, React Router, JS, CSS, HTML/ 
 
