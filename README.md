@@ -9,7 +9,7 @@
 
 ### [Weather Forecast for 3 days](https://odyksa.github.io/weather-forecast) ###  
 **Type**: SPA  
-**Description**: App allows to get a current weather and weather forecast for 3 days using [APIXU API](https://www.apixu.com/api.aspx).  
+**Description**: App allows to get a current weather and weather forecast for 3 days using [APIXU API](https://www.apixu.com/api.aspx)  
 **Stack**: Redux, React, React Router, JS, CSS, HTML   
 **Demo**: [Weather Forecast for 3 days](https://odyksa.github.io/weather-forecast)   
 
