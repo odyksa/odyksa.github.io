@@ -1,3 +1,4 @@
+![Alex Dyksa](https://github.com/odyksa/odyksa.github.io/blob/master/avatar.png)
 # Alex Dyksa
 ## My projects:
 
