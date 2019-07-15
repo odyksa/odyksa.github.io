@@ -13,8 +13,11 @@
 **Stack**: Redux, React, React Router, JS, CSS, HTML   
 **Demo**: [Weather Forecast for 3 days](https://odyksa.github.io/weather-forecast)   
 
-- [Current Weather](https://odyksa.github.io/current_weather)  
-/Type: SPA / Stack: Redux, React, JS, CSS, HTML/  
+### [Current Weather](https://odyksa.github.io/current_weather)  ###  
+**Type**: SPA  
+**Description**: App allows to get a current weather using [OpenWeather API](https://openweathermap.org/api)  
+**Stack**: Redux, React, JS, CSS, HTML   
+**Demo**: [Current Weather](https://odyksa.github.io/current_weather)   
 
 - [TODO List](https://odyksa.github.io/todo_list)  
 /Type: SPA / Stack: React, React-Flip-Move, JS, CSS, HTML/  
