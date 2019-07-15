@@ -19,8 +19,11 @@
 **Stack**: Redux, React, JS, CSS, HTML   
 **Demo**: [Current Weather](https://odyksa.github.io/current_weather)   
 
-- [TODO List](https://odyksa.github.io/todo_list)  
-/Type: SPA / Stack: React, React-Flip-Move, JS, CSS, HTML/  
+### [TODO List](https://odyksa.github.io/todo_list)  ###  
+**Type**: SPA  
+**Description**: App allows to create a list of tasks that user have to do. User also can delete each of tasks   
+**Stack**: React, React-Flip-Move, JS, CSS, HTML   
+**Demo**: [TODO List](https://odyksa.github.io/todo_list)   
 
 - [Mikron](https://odyksa.github.io/mikron)  
 /Type: landing page / Stack: JS, JQuery, SASS, HTML/  
