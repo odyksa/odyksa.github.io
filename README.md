@@ -26,52 +26,52 @@
 **Demo**: [TODO List](https://odyksa.github.io/todo_list)   
 
 ### [Mikron](https://odyksa.github.io/mikron)  ###   
-**Type:** landing page 
+**Type:** landing page   
 **Stack:** JS, JQuery, SASS, HTML   
 **Demo**: [Mikron](https://odyksa.github.io/mikron)      
 
 ### [Treehouse](https://odyksa.github.io/treehouse)  ###   
-**Type:** landing page 
+**Type:** landing page   
 **Stack:** JS, JQuery, SASS, HTML   
 **Demo**: [Treehouse](https://odyksa.github.io/treehouse)   
 
 ### [Mstore](https://odyksa.github.io/mstore)  ###   
-**Type:** landing page 
+**Type:** landing page   
 **Stack:** JS, JQuery, JQuery UI, CSS, HTML   
 **Demo**: [Mstore](https://odyksa.github.io/mstore)   
 
 ### [Luxury Restaurant](https://odyksa.github.io/luxury_restaurant)  ###   
-**Type:** landing page 
+**Type:** landing page   
 **Stack:** JS, JQuery, Bootstrap, SASS, HTML   
 **Demo**: [Luxury Restaurant](https://odyksa.github.io/luxury_restaurant)   
 
 ### [ActiveBox](https://odyksa.github.io/activebox)  ###   
-**Type:** landing page  
-**Stack:** CSS, HTML   
+**Type:** landing page   
+**Stack:** CSS, HTML    
 **Demo**: [ActiveBox](https://odyksa.github.io/activebox)   
 
 ### [Golden](https://odyksa.github.io/golden)  ###   
-**Type:** landing page 
-**Stack:** CSS, HTML   
+**Type:** landing page  
+**Stack:** CSS, HTML    
 **Demo**: [Golden](https://odyksa.github.io/golden)   
 
 ### [Goodinc](https://odyksa.github.io/goodinc)  ###   
-**Type:** landing page 
+**Type:** landing page   
 **Stack:** CSS, HTML   
 **Demo**: [Goodinc](https://odyksa.github.io/goodinc)   
 
 ### [LoremIpsum](https://odyksa.github.io/lorem_ipsum)  ###   
-**Type:** web-page 
+**Type:** web-page  
 **Stack:** CSS, HTML   
 **Demo**: [LoremIpsum](https://odyksa.github.io/lorem_ipsum)   
 
 ### [Watch Planet](https://odyksa.github.io/watch_planet)  ###   
-**Type:** web-page 
+**Type:** web-page  
 **Stack:** CSS, HTML   
 **Demo**: [Watch Planet](https://odyksa.github.io/watch_planet)   
 
 ### [Web Career](https://odyksa.github.io/webcareer)  ###   
-**Type:** web-page 
+**Type:** web-page  
 **Stack:** CSS, HTML   
 **Demo**: [Web Career](https://odyksa.github.io/webcareer)   
 
