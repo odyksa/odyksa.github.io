@@ -45,7 +45,7 @@
 ### [Mstore](https://odyksa.github.io/mstore)  ###   
 **Type:** landing page   
 **Stack:** JS, JQuery, JQuery UI, CSS, HTML   
-**Demo**: [Mstore](https://odyksa.github.io/mstore) 
+**Demo**: [Mstore](https://odyksa.github.io/mstore)  
 **Repository**: [Mstore](https://github.com/odyksa/MStore)   
 
 ### [Luxury Restaurant](https://odyksa.github.io/luxury_restaurant)  ###   
