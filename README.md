@@ -3,7 +3,7 @@
 
 ### [Blueex](https://odyksa.github.io/blueex) ###  
 **Type**: SPA  
-**Description**: Responsive SPA has 4 routes (pages), css animation ( + WOW.JS), parallax effect, components as carousel, accordion (React Bootstrap, React Slick), smooth scrolling to certain sections, Google Map    
+**Description**: Responsive SPA has 4 routes (pages), React Bootstrap’s grid system, css animation ( + WOW.JS), parallax effect, components as carousel, accordion (React Bootstrap, React Slick), smooth scrolling to certain sections, Google Map    
 **Stack**: React, React Router, React Bootstrap, JS, CSS, HTML  
 **Demo**: [Blueex](https://odyksa.github.io/blueex)      
 **Repository**: [Blueex](https://github.com/odyksa/Blueex)   
