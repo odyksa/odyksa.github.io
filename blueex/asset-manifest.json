@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/blueex/static/css/main.cb8ce8e3.chunk.css",
-    "main.js": "/blueex/static/js/main.33c6c7be.chunk.js",
-    "main.js.map": "/blueex/static/js/main.33c6c7be.chunk.js.map",
+    "main.js": "/blueex/static/js/main.b9a477bc.chunk.js",
+    "main.js.map": "/blueex/static/js/main.b9a477bc.chunk.js.map",
     "runtime~main.js": "/blueex/static/js/runtime~main.28412182.js",
     "runtime~main.js.map": "/blueex/static/js/runtime~main.28412182.js.map",
     "static/css/2.7959e0da.chunk.css": "/blueex/static/css/2.7959e0da.chunk.css",
     "static/js/2.d32cbc1f.chunk.js": "/blueex/static/js/2.d32cbc1f.chunk.js",
     "static/js/2.d32cbc1f.chunk.js.map": "/blueex/static/js/2.d32cbc1f.chunk.js.map",
     "index.html": "/blueex/index.html",
-    "precache-manifest.af4ccb3e16999acf4cb3817c0ccf3689.js": "/blueex/precache-manifest.af4ccb3e16999acf4cb3817c0ccf3689.js",
+    "precache-manifest.f03e0ea2f88a8613d95bae0cba110738.js": "/blueex/precache-manifest.f03e0ea2f88a8613d95bae0cba110738.js",
     "service-worker.js": "/blueex/service-worker.js",
     "static/css/2.7959e0da.chunk.css.map": "/blueex/static/css/2.7959e0da.chunk.css.map",
     "static/css/main.cb8ce8e3.chunk.css.map": "/blueex/static/css/main.cb8ce8e3.chunk.css.map",

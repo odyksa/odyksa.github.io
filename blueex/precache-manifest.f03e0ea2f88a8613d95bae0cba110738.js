@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a13f52077449a3fabfa57bf021257465",
+    "revision": "4d0c4d6287404aa349ffa6f9690531d6",
     "url": "/blueex/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blueex/static/css/2.7959e0da.chunk.css"
   },
   {
-    "revision": "ec7c9ca8b1bf376e2ae4",
+    "revision": "b39a84b961255a8660a7",
     "url": "/blueex/static/css/main.cb8ce8e3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blueex/static/js/2.d32cbc1f.chunk.js"
   },
   {
-    "revision": "ec7c9ca8b1bf376e2ae4",
-    "url": "/blueex/static/js/main.33c6c7be.chunk.js"
+    "revision": "b39a84b961255a8660a7",
+    "url": "/blueex/static/js/main.b9a477bc.chunk.js"
   },
   {
     "revision": "63c05bb337d1413cea71",
