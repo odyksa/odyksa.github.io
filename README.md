@@ -1,6 +1,13 @@
 # Alex Dyksa
 ## My projects:
 
+### [Blueex](https://odyksa.github.io/blueex) ###  
+**Type**: SPA  
+**Description**: SPA has 4 routes (React Router), css animation ( + WOW.JS), parallax effect, components as carousel, accordion (React Bootstrap, React Slick), smooth scrolling to 2 sections, Google Map    
+**Stack**: React, React Router, React Bootstrap, JS, CSS, HTML  
+**Demo**: [Blueex](https://odyksa.github.io/blueex)      
+**Repository**: [Blueex](https://github.com/odyksa/Blueex)   
+
 ### [CookBook Recipes](https://odyksa.github.io/cookbook) ###  
 **Type**: SPA  
 **Description**: App allows to get a recipe from a receipe-database using [Food2Fork API](https://www.food2fork.com/about/api). App uses Local Storage for saving data  
